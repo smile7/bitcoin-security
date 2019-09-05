@@ -1,26 +1,28 @@
-[
-    {
-        "username": "admin",
-        "password": "admin",
-        "fname": "Admin",
-        "lname": "Adminski",
-        "email": "admin@ad.min",
-        "role": "administrator"
-    },
-    {
-        "username": "sisi",
-        "password": "sisi",
-        "fname": "Silvena",
-        "lname": "Miteva",
-        "email": "sisi@ad.min",
-        "role": "administrator"
-    },
-    {
-        "username": "warlock",
-        "password": "asdf",
-        "fname": "Warlock",
-        "lname": "Smith",
-        "email": "warlock@us.er",
-        "role": "user"
-    }
-]
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "admin",
+            "fname": "Admin",
+            "lname": "Adminski",
+            "email": "admin@ad.min",
+            "role": "administrator"
+        },
+        {
+            "username": "sisi",
+            "password": "sisi",
+            "fname": "Silvena",
+            "lname": "Miteva",
+            "email": "sisi@ad.min",
+            "role": "administrator"
+        },
+        {
+            "username": "warlock",
+            "password": "asdf",
+            "fname": "Warlock",
+            "lname": "Smith",
+            "email": "warlock@us.er",
+            "role": "user"
+        }
+    ]
+}
